@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SsHhl6a2gpo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faust\\OneDrive\\Escritorio\\Clase_ProgramacionII\\Tienda_computadora\\Tienda_computadora\\Tienda_computadora\\Tienda_computadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faust\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\faust\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512"
+  ],
+  "logs": []
+}
